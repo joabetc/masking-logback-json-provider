@@ -1,5 +1,6 @@
 # Log Masking for JSON formatted events
 [![Java CI with Maven](https://github.com/joabetc/masking-logback-json-provider/actions/workflows/maven.yml/badge.svg)](https://github.com/joabetc/masking-logback-json-provider/actions/workflows/maven.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=joabetc_masking-logback-json-provider&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=joabetc_masking-logback-json-provider)
 
 Provides an extension to [Logstash JSON Encoder](https://github.com/logstash/logstash-logback-encoder) to mask sensitive contents of log events using rules like below:
 
